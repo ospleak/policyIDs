@@ -1,0 +1,14 @@
+{
+  "project": "AdaDot",
+  "tags": [
+    "CardanoDot",
+    "AdaDot",
+  ],
+  "policies": [
+    "policy1",
+    "policy2",
+    "policy3",
+    "policy4"
+  ]
+}
+
